@@ -1,0 +1,4 @@
+Ví dụ 1: Ngoại lệ số học (ArithmeticException)
+Ví dụ 2: Ngoại lệ ArrayIndexOutOfBound
+Ví dụ 3: NumberFormatException
+Ví dụ 4: Ngoại lệ StringIndexOutOfBound
